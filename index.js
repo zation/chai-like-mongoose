@@ -1,1 +1,1 @@
-module.exports = require('./lib/chai-like-mongo');
+module.exports = require('./lib/chai-like-mongoose');
