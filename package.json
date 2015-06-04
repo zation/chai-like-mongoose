@@ -1,0 +1,36 @@
+{
+  "name": "chai-like-mongo",
+  "version": "0.0.1",
+  "description": "The mongo plugin for chai-like",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zation/chai-like-mongo.git"
+  },
+  "keywords": [
+    "chai-like",
+    "mongo",
+    "plugin",
+    "json",
+    "test",
+    "integration",
+    "API"
+  ],
+  "author": "Zation <zation1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zation/chai-like-mongo/issues"
+  },
+  "homepage": "https://github.com/zation/chai-like-mongo",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "chai-like": "^0.1.6",
+    "mocha": "^2.2.1"
+  },
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  }
+}
